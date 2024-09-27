@@ -1176,7 +1176,11 @@
   "/chaincatcher/news": [
     "TonyRL"
   ],
-  "/changba/:userid": [],
+  "/changba/:userid": [
+    "kt286",
+    "xizeyoupan",
+    "pseudoyu"
+  ],
   "/chaoxing/qk/:id/:needContent?": [
     "nczitzk"
   ],
@@ -1192,8 +1196,26 @@
   "/chiculture/topic/:category?": [
     "nczitzk"
   ],
-  "/chikubi/:category?": [
-    "snowagar25"
+  "/chikubi/category/:keyword": [
+    "SnowAgar25"
+  ],
+  "/chikubi/": [
+    "SnowAgar25"
+  ],
+  "/chikubi/:keyword": [
+    "SnowAgar25"
+  ],
+  "/chikubi/nipple-video-category/:keyword": [
+    "SnowAgar25"
+  ],
+  "/chikubi/nipple-video-maker/:keyword": [
+    "SnowAgar25"
+  ],
+  "/chikubi/search/:keyword": [
+    "SnowAgar25"
+  ],
+  "/chikubi/tag/:keyword": [
+    "SnowAgar25"
   ],
   "/china/finance/:category?": [
     "KingJem"
@@ -1596,6 +1618,9 @@
   ],
   "/deepin/homepage/:user_id": [
     "tensor-tech"
+  ],
+  "/deepin/threads/:type?": [
+    "myml"
   ],
   "/deeplearning/thebatch": [
     "nczitzk",
@@ -2238,14 +2263,21 @@
   ],
   "/gamer/gnn/:category?": [
     "Arracc",
-    "ladeng07"
+    "ladeng07",
+    "pseudoyu"
   ],
   "/gamer/hot/:bsn": [
     "nczitzk",
     "TonyRL"
   ],
-  "/gamer/ani/anime/:sn": [],
-  "/gamer/ani/new_anime": [],
+  "/gamer/ani/anime/:sn": [
+    "maple3142",
+    "pseudoyu"
+  ],
+  "/gamer/ani/new_anime": [
+    "maple3142",
+    "pseudoyu"
+  ],
   "/gamer520/:category?/:order?": [
     "xzzpig"
   ],
@@ -3647,6 +3679,10 @@
   "/kimlaw/thesis": [
     "TonyRL"
   ],
+  "/konachan/post/popular_recent/:period?": [
+    "magic-akari",
+    "NekoAria"
+  ],
   "/konghq/blog-posts": [
     "piglei"
   ],
@@ -3714,7 +3750,8 @@
   "/leiphone/:do?/:keyword?": [],
   "/leiphone/newsflash": [],
   "/lemmy/:community/:sort?": [
-    "wb14123"
+    "wb14123",
+    "pseudoyu"
   ],
   "/lfsyd/home": [
     "auto-bot-ty"
@@ -3913,7 +3950,8 @@
     "TonyRL"
   ],
   "/mastodon/account_id/:site/:account_id/statuses/:only_media?": [
-    "notofoe"
+    "notofoe",
+    "pseudoyu"
   ],
   "/mastodon/acct/:acct/statuses/:only_media?": [
     "notofoe"
@@ -4156,10 +4194,12 @@
   "/natgeo/dailyphoto": [
     "LogicJake",
     "OrangeEd1t",
-    "TonyRL"
+    "TonyRL",
+    "pseudoyu"
   ],
   "/natgeo/dailyselection": [
-    "OrangeEd1t"
+    "OrangeEd1t",
+    "pseudoyu"
   ],
   "/natgeo/:cat/:type?": [
     "fengkx"
@@ -4206,6 +4246,9 @@
   ],
   "/ncepu/master/:type": [
     "nilleo"
+  ],
+  "/ncku/csie/:catagory?": [
+    "simbafs"
   ],
   "/ncpssd/newlist": [
     "LyleLee"
@@ -4256,7 +4299,8 @@
     "nczitzk"
   ],
   "/newyorker/:category": [
-    "EthanWng97"
+    "EthanWng97",
+    "pseudoyu"
   ],
   "/newzmz/:id?/:downLinkType?": [
     "nczitzk"
@@ -4289,7 +4333,8 @@
     "Andiedie"
   ],
   "/nhk/news/:lang?": [
-    "TonyRL"
+    "TonyRL",
+    "pseudoyu"
   ],
   "/niaogebiji/cat/:cat": [
     "cKotoriKat"
@@ -4591,14 +4636,19 @@
     "xtexChooser"
   ],
   "/nytimes/book/:category?": [
-    "melvinto"
+    "melvinto",
+    "pseudoyu"
   ],
   "/nytimes/daily_briefing_chinese": [
     "yueyericardo",
     "nczitzk"
   ],
   "/nytimes/:lang?": [
-    "HenryQW"
+    "HenryQW",
+    "pseudoyu"
+  ],
+  "/obsidian/publish/:id": [
+    "Xy2002"
   ],
   "/oceanengine/index/:keyword/:channel?": [
     "Jkker"
@@ -6403,6 +6453,9 @@
     "talengu",
     "mobyw"
   ],
+  "/uestc/bbs/:types?": [
+    "huyyi"
+  ],
   "/uestc/cqe/:type?": [
     "truobel",
     "mobyw"
@@ -6576,6 +6629,24 @@
   ],
   "/vom/featured/:lang?": [
     "TonyRL"
+  ],
+  "/voronoiapp/author/:username": [
+    "Cesaryuan"
+  ],
+  "/voronoiapp/editors-pick/:category?": [
+    "Cesaryuan"
+  ],
+  "/voronoiapp/home/:category?": [
+    "Cesaryuan"
+  ],
+  "/voronoiapp/latest/:category?": [
+    "Cesaryuan"
+  ],
+  "/voronoiapp/popular/:tab?/:time_range?/:category?": [
+    "Cesaryuan"
+  ],
+  "/voronoiapp/search/:keyword": [
+    "Cesaryuan"
   ],
   "/wallhaven/search/:filter?/:needDetails?": [
     "nczitzk",
@@ -6999,6 +7070,9 @@
     "TonyRL",
     "williamgateszhao"
   ],
+  "/yamap/": [
+    "valuex"
+  ],
   "/yamibo/bbs/forum/:fid/:type?": [
     "KarasuShin"
   ],
@@ -7006,7 +7080,8 @@
     "KarasuShin"
   ],
   "/yande/post/popular_recent/:period?": [
-    "fashioncj"
+    "fashioncj",
+    "NekoAria"
   ],
   "/yangtzeu/dongke/*": [],
   "/ycwb/:node": [
