@@ -5995,6 +5995,12 @@
   "/sysu/ygafz/:type?": [
     "TonyRL"
   ],
+  "/szftedu/dongtai": [
+    "valuex"
+  ],
+  "/szftedu/gonggao": [
+    "valuex"
+  ],
   "/szse/inquire/:category?/:select?/:keyword?": [
     "Jeason0228",
     "nczitzk"
@@ -7086,6 +7092,8 @@
     "KarasuShin"
   ],
   "/yande/post/popular_recent/:period?": [
+    "magic-akari",
+    "SettingDust",
     "fashioncj",
     "NekoAria"
   ],
